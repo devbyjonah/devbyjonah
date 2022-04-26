@@ -1,10 +1,30 @@
-- 👋 Hello! I'm Jonah,
-- 👀 a software engineer based out of Sacramento, California.
-- 🌱 I’m currently learning node.js and react.js
-- 💞️ and I’m excited to collaborate on all kinds of projects!
-- 📫 You can reach out to me via email if you ever want to get in touch :)
 
-<!---
-devbyjonah/devbyjonah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  
+![totoro](https://user-images.githubusercontent.com/102780010/165196503-71010a9a-b5ad-4de6-8ff9-439fcc4a86c5.gif)
+ 
+   Hey there! Welcome to my profile :)
+</h1>
+<h3>I'm Jonah, a software engineer based out of Sacramento, California.</h3>
+<ul>
+<p>I am always looking to connect and collaborate with all kinds of developers. If you are interested in working together or just want to talk about code, feel free to reach out at anytime using the links to my socials below. </p>
+<p>I do most of my work in HTML, CSS, Javscript, and Python, and I'm currently learning React and Node full time. You can check out some of my recent work on <a href="https://devbyjonah.netlify.app">my portfolio</a> as well as here on Github!</p>
+<p>Looking for some quick tips? I push new solutions to my Codewars repository daily, with extensive documentation and notes on best practices.</p>
+<p>A fun fact about me is that I've played piano and lots of percussion instruments for over a decade. I'm particulary interested in any projects that incorporate my two passions of music and software development.</p>
+</ul>
+
+<ul align="center">
+
+[![twitterlogo](https://user-images.githubusercontent.com/102780010/165202150-9b2c8d6c-900f-46b0-a277-c354d125d861.png)][1]
+  
+[![linkedinlogo](https://user-images.githubusercontent.com/102780010/165202391-819d7e6c-f7cd-4d9a-b1cd-ed125ee28264.png)][2]
+  
+[![codewarslogo](https://user-images.githubusercontent.com/102780010/165202828-603a5375-491d-4163-b42b-e617259ca71f.png)][3]
+  
+</ul>
+
+[1]: http://www.twitter.com/devbyjonah
+[2]: https://www.linkedin.com/in/devbyjonah
+[3]: https://www.codewars.com/users/devbyjonah
+
+![cover](https://user-images.githubusercontent.com/102780010/165195572-9070a1b0-4f5f-4e11-98b2-f2cc99c4ae70.png)
