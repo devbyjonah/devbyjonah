@@ -27,4 +27,4 @@
 [2]: https://www.linkedin.com/in/devbyjonah
 [3]: https://www.codewars.com/users/devbyjonah
 
-![cover](https://user-images.githubusercontent.com/102780010/165195572-9070a1b0-4f5f-4e11-98b2-f2cc99c4ae70.png)
+![cover](https://user-images.githubusercontent.com/102780010/165241581-78a224a2-0a8f-4dfa-98ad-87624361df29.png)
