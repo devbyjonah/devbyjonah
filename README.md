@@ -13,15 +13,11 @@
 <p>A fun fact about me is that I've played piano and lots of percussion instruments for over a decade. I'm particulary interested in any projects that incorporate my two passions of music and software development.</p>
 </ul>
 
-<ul align="center">
+<div align="center">
 
-[![twitterlogo](https://user-images.githubusercontent.com/102780010/165202150-9b2c8d6c-900f-46b0-a277-c354d125d861.png)][1]
+[![twitterlogo](https://user-images.githubusercontent.com/102780010/165202150-9b2c8d6c-900f-46b0-a277-c354d125d861.png)][1] [![linkedinlogo](https://user-images.githubusercontent.com/102780010/165202391-819d7e6c-f7cd-4d9a-b1cd-ed125ee28264.png)][2] [![codewarslogo](https://user-images.githubusercontent.com/102780010/165202828-603a5375-491d-4163-b42b-e617259ca71f.png)][3]
   
-[![linkedinlogo](https://user-images.githubusercontent.com/102780010/165202391-819d7e6c-f7cd-4d9a-b1cd-ed125ee28264.png)][2]
-  
-[![codewarslogo](https://user-images.githubusercontent.com/102780010/165202828-603a5375-491d-4163-b42b-e617259ca71f.png)][3]
-  
-</ul>
+</div>
 
 [1]: http://www.twitter.com/devbyjonah
 [2]: https://www.linkedin.com/in/devbyjonah
