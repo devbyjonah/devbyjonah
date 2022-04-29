@@ -8,7 +8,7 @@
 <h3 align="center">I'm Jonah, a software engineer based out of Sacramento, California.</h3>
 
 <p>I am always looking to connect and collaborate with all kinds of developers. If you are interested in working together or just want to talk about code, feel free to reach out at anytime using the links to my socials below. </p>
-<p>I do most of my work in HTML, CSS, Javscript, and Python, and I'm currently learning React and Node full time. You can check out some of my recent work on <a href="https://devbyjonah.netlify.app">my portfolio</a> as well as here on Github!</p>
+<p>I do most of my work in Javascript, Python, CSS, and HTML, and I'm currently learning React and Node full time. You can check out some of my recent work on <a href="https://devbyjonah.netlify.app">my portfolio</a> as well as here on Github!</p>
 <p>Looking for some quick tips? I push new solutions to my Codewars repository daily, with extensive documentation and notes on best practices.</p>
 <p>A fun fact about me is that I've played piano and lots of percussion instruments for over a decade. I'm particulary interested in any projects that incorporate my two passions of music and software development.</p>
 
