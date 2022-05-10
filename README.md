@@ -12,6 +12,9 @@
 <p>Looking for some quick tips? I push new solutions to my Codewars repository daily, with extensive documentation and notes on best practices.</p>
 <p>A fun fact about me is that I've played piano and lots of percussion instruments for over a decade. I'm particulary interested in any projects that incorporate my two passions of music and software development.</p>
 
+<div align="center">
+  <img width="300px" src="https://www.codewars.com/users/devbyjonah/badges/large" alt="khanhtranngoccva's Codewars stats">
+ </div>
 
 <div align="center">
 
