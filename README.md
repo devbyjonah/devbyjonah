@@ -1,9 +1,11 @@
+![cover](https://user-images.githubusercontent.com/102780010/165241581-78a224a2-0a8f-4dfa-98ad-87624361df29.png)
+
 
 <h1 align="center">
   
-![totoro](https://user-images.githubusercontent.com/102780010/165196503-71010a9a-b5ad-4de6-8ff9-439fcc4a86c5.gif)
+
  
-   Hey there! I'm Jonah, a software engineer from Sacramento, California.
+  Hello! I'm Jonah, a software engineer from Sacramento, California.
 </h1>
 
 <p>- I am always looking to connect with more developers and collaborate on all kinds of projects. If you are interested in working together or just want to talk about code, feel free to reach out at anytime using the links to my socials below. </p>
@@ -36,5 +38,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbyjonah&show_icons=true&locale=en&layout=compact" alt="devbyjonah" /></p>
 
 </div>
-
-![cover](https://user-images.githubusercontent.com/102780010/165241581-78a224a2-0a8f-4dfa-98ad-87624361df29.png)
