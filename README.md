@@ -31,9 +31,5 @@
 <div align ="center">
   
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyjonah&" alt="devbyjonah" /></p>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbyjonah)](https://github.com/devbyjonah/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbyjonah&layout=compact&hide=Procfile)](https://github.com/devbyjonah/github-readme-stats)
 
 </div>
