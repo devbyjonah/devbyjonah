@@ -9,7 +9,7 @@
 </h1>
 
 <p>- If you are interested in working together or just want to talk about code, reach out at anytime using the links to my socials below. I am always looking to connect/collaborate with more developers.</p>
-<p>- I do most of my work in Javascript, utilizing the MERN stack to build full stack web applications; however, I also have experience building and teaching with Python and the Flask framework. You can check out some of my recent work on <a href="http://jonahwagner.com">my portfolio</a> as well as here on Github!</p>
+<p>- I do most of my work in Javascript, utilizing the MERN stack to build full stack web applications; however, I also have experience building and teaching with Python and the Flask framework. You can check out some of my recent work on <a href="https://jonahwagner.com">my portfolio</a> as well as here on Github!</p>
 <p>- I'll be pushing new solutions to my Codewars repository on a daily basis, with additional documentation and notes on best practices.</p>
 
 <div align="center">
