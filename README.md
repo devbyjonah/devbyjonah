@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devbyjonah&label=Profile%20views&color=0e75b6&style=flat" alt="devbyjonah" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbyjonah" alt="devbyjonah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbyjonah&rank=S,AAA,AA,A,B" alt="devbyjonah" /></a> </p>
 
 - 🔭 I’m currently working on [an online Metronome with React, Express, and utilizing the Web Audio API.](https://github.com/devbyjonah/metronome)
 
