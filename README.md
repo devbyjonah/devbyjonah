@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on [an online Metronome with React, Express, and utilizing the Web Audio API.](https://github.com/devbyjonah/metronome)
 
-- 🌱 I’m currently learning **NextJS, Svelte and SvelteKit, and TailwindCSS.**
+- 🌱 I’m currently learning **Rust because it is extremely different from languages I've worked with before and will help me fill in many of the gaps in my CS education.**
 
 
-- 👯 I’m looking to collaborate on **on any software projects related to music, ai, or helping others!**
+- 👯 I’m looking to collaborate on **on any software projects where I can both contribute to an awesome project and expand my skillset along the way!**
   </p>
 
 - 👨‍💻 All of my projects are available at [https://jonahwagner.com](https://jonahwagner.com)
