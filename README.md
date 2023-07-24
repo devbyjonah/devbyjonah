@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbyjonah&rank=S,AAA,AA,A,B" alt="devbyjonah" /></a> </p>
 
-- 🔭 I’m currently working on [an online Metronome with React, Express, and utilizing the Web Audio API.](https://github.com/devbyjonah/metronome)
+- 🔭 I’m currently working on [an online Metronome with React, Express, and utilizing the Web Audio API.](https://github.com/devbyjonah/next-metronome) and you can see the [deployed app here](https://tempocontrol.vercel.app)
 
 - 🌱 I’m currently learning **Rust because it is extremely different from languages I've worked with before and will help me fill in many of the gaps in my CS education.**
 
