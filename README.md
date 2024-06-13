@@ -111,8 +111,8 @@
 </p>
 <hr/>
 <div> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyjonah&theme=dark" alt="devbyjonah">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbyjonah&show_icons=true&locale=en&theme=dark" alt="devbyjonah">
+  <img width="47%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=devbyjonah&theme=dark" alt="devbyjonah">
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=devbyjonah&show_icons=true&locale=en&theme=dark" alt="devbyjonah">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbyjonah&show_icons=true&locale=en&layout=donut&theme=dark" alt="devbyjonah" width="45%" />
