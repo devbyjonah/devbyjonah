@@ -18,7 +18,7 @@
 <div align="center">
   <h3>A driven software engineer with a focus on front-end web development.</h3>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devbyjonah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=devbyjonah&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
   <div>
     <img width="300px" src="https://www.codewars.com/users/devbyjonah/badges/large" alt="khanhtranngoccva's Codewars stats">
