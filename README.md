@@ -17,9 +17,6 @@
     <a href="https://www.codewars.com/users/devbyjonah">
       <img src="https://user-images.githubusercontent.com/102780010/165202828-603a5375-491d-4163-b42b-e617259ca71f.png" alt="codewars logo" width="30">
     </a>
-    <a href="http://www.twitter.com/devbyjonah">
-      <img src="https://user-images.githubusercontent.com/102780010/165202150-9b2c8d6c-900f-46b0-a277-c354d125d861.png" alt="twitter logo" width="30">
-    </a>
   </span>
 </div>
 </div>
